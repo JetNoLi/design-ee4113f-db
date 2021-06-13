@@ -1,0 +1,23 @@
+{
+  "name": "design-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JetNoLi/design-eee4113f-db.git"
+  },
+  "author": "JetNoLi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JetNoLi/design-eee4113f-db/issues"
+  },
+  "homepage": "https://github.com/JetNoLi/design-eee4113f-db#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.13"
+  }
+}
